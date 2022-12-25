@@ -1,4 +1,4 @@
 <h1>About me</h1>
 <ul>
-  <li>Item 1</li>
+  <li>🗣️I speak English <u>and</u> Russian fluently</li>
 </ul>
