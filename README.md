@@ -1,10 +1,9 @@
-<h1>About me</h1>
-<ul>
-  <li>🗺️I live in Russia</li>
-  <li>🗣️I speak English and Russian fluently</li>
-  <li>🖥️Learning frontend and backend development</li>
-  <li>⌛6 years of experience in lua</li>
-</ul>
+<h1>Skills</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,html,css,sass,js,nodejs,vue,vscode,godot,vercel,figma,electron,discord,github,lua,md,py" />
+  </a>
+</p>
 <h1>Contacts</h1>
 <ul>
   <li><a href="https://discordapp.com/users/689356130127708214" target="_blank">Discord</a></li>
