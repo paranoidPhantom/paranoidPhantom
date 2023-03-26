@@ -1,6 +1,6 @@
 <h1>Skills</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=blender,html,css,sass,js,nodejs,vue,vscode,godot,vercel,figma,electron,discord,github,lua,md,py" />
   </a>
 </p>
