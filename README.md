@@ -6,5 +6,5 @@
 </p>
 <h1>Contacts</h1>
 <a href="https://t.me/andrei_hudalla" target="_blank"><img style="width: 4rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"/></a>
-<a href="https://discordapp.com/users/689356130127708214" target="_blank"><img style="width: 4rem;" src="https://cdn.cdnlogo.com/logos/d/64/discord.png" /></a>
+<a href="https://discordapp.com/users/689356130127708214" target="_blank"><img style="width: 4rem;" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Discord_logo.svg/300px-Discord_logo.svg.png" /></a>
 <a href="https://steamcommunity.com/id/ilikenoodles1414" target="_blank"><img style="width: 4rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/768px-Steam_icon_logo.svg.png" /></a>
