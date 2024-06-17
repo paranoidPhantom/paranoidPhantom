@@ -19,9 +19,7 @@
     <img src="https://skillicons.dev/icons?i=electron" />
   </a>
 </p>
-<h1>Contacts</h1>
-<ul>
-  <li><a href="https://t.me/paranoidPhantom" target="_blank">Telegram</a></li>
-  <li><a href="https://discordapp.com/users/689356130127708214" target="_blank">Discord</a></li>
-  <li><a href="https://steamcommunity.com/id/ilikenoodles1414" target="_blank">Steam</a></li>
-</ul>
+<h1>Contacts me:</h1>
+<a href="https://t.me/paranoidPhantom" target="_blank">
+  <img style="width: 12rem" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="Open in app">
+</a>
