@@ -20,6 +20,6 @@
   </a>
 </p>
 <h1>Contact me:</h1>
-<a href="tg://msg?to=paranoidPhantom" target="_blank">
+<a href="https://t.me/paranoidPhantom" target="_blank">
   <img style="width: 12rem" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="Open in app">
 </a>
