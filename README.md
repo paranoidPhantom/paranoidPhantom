@@ -4,18 +4,40 @@
 
 <h1>Skills</h1>
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank">
+  <a href="https://docker.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://supabase.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=supabase" />
+  </a>
+  <a href="https://[skillicons.dev](https://www.postgresql.org/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://nginx.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nginx" />
+  </a>
+  <a href="https://sass-lang.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=sass" />
+  </a>
+  <a href="https://typescriptlang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://nuxt.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=nuxt" />
+  </a>
+  <a href="https://vuejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=vue" />
+  </a>
+  <a href="https://tailwindcss.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://vercel.com/home" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="https://electronjs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=electron" />
   </a>
 </p>
