@@ -7,10 +7,16 @@
   <a href="https://docker.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
+  <a href="https://cloudflare.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cloudflare" />
+  </a>
+  <a href="https://github.com/features/actions/getting-started" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions" />
+  </a>
   <a href="https://supabase.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=supabase" />
   </a>
-  <a href="https://[skillicons.dev](https://www.postgresql.org/)" target="_blank">
+  <a href="https://www.postgresql.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
   <a href="https://nginx.org" target="_blank">
@@ -33,9 +39,6 @@
   </a>
   <a href="https://tailwindcss.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" />
-  </a>
-  <a href="https://vercel.com/home" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
   <a href="https://electronjs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=electron" />
