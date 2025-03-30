@@ -22,6 +22,9 @@
   <a href="https://nginx.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nginx" />
   </a>
+  <a href="https://grafana.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=grafana" />
+  </a>
   <a href="https://sass-lang.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=sass" />
   </a>
