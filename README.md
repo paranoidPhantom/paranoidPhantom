@@ -2,6 +2,8 @@
 
 [![paranoidPhantom Nuxter profile](https://nuxters.nuxt.com/card/paranoidPhantom/og.png)](https://nuxters.nuxt.com/paranoidPhantom)
 
+<img src="https://wakatime.com/share/@paranoidPhantom/d7644bb9-c9d5-48ed-b915-43b7bfa5d9ff.svg">
+
 <h1>Skills</h1>
 <p align="center">
   <a href="https://docker.com" target="_blank">
