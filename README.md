@@ -1,10 +1,13 @@
+## Total code time:
 [![wakatime](https://wakatime.com/badge/user/018e7187-321d-45f8-8854-9be2e9d9116a.svg)](https://wakatime.com/@018e7187-321d-45f8-8854-9be2e9d9116a)
 
+## I love Nuxt! ❤️
 [![paranoidPhantom Nuxter profile](https://nuxters.nuxt.com/card/paranoidPhantom/og.png)](https://nuxters.nuxt.com/paranoidPhantom)
 
+## What I've been wasting my time on in the last year:
 <img src="https://wakatime.com/share/@paranoidPhantom/595e336d-6a5c-4a36-b477-aecf805b0274.svg">
 
-<h1>Skills</h1>
+## Skills:
 <p align="center">
   <a href="https://docker.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" />
