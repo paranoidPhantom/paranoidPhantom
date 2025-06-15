@@ -9,6 +9,12 @@
 
 ## Skills:
 <p align="center">
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rust" />
+  </a>
+  <a href="https://neovim.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=neovim" />
+  </a>
   <a href="https://docker.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
@@ -38,6 +44,9 @@
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://bun.sh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bun" />
   </a>
   <a href="https://nuxt.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=nuxt" />
